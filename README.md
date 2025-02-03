@@ -5,8 +5,10 @@
 
 
 This project was the final project to obtain the following certification after nearly 300 hours of training:
+
+
 ![freecodecamp](./img/freecodecamp.jpg)
 
 
 
-
+**Note:** This is not my official website.
